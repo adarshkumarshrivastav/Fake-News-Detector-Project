@@ -153,4 +153,4 @@ if st.button("🔍 Predict"):
 
 # Footer
 st.markdown("---")
-st.markdown('<p style="text-align: center; color: grey;">Made with ❤️ using Streamlit, NLTK & Scikit-learn</p>', unsafe_allow_html=True)
+st.markdown('<p style="text-align: center; color: grey;">Made with ❤️ using Streamlit, NLTK & Scikit-learn by Shivesh</p>', unsafe_allow_html=True)
